@@ -16,7 +16,7 @@ function App() {
             </h1>
             <div className="absolute -bottom-2 left-0 right-0 h-1 bg-gradient-to-r from-blue-600 via-purple-500 to-pink-500 rounded-full transform scale-x-0 animate-expand"></div>
           </div>
-          <p className="text-gray-600 mt-3 italic text-lg">Test your Gneral knowledge!</p>
+          <p className="text-gray-600 mt-3 italic text-lg">Test your General knowledge!</p>
         </div>
         
         {/* Quiz Component */}
