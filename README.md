@@ -15,11 +15,11 @@ A modern, interactive quiz application built with React and Vite, featuring anim
 ## 📸 Screenshots
 
 ### Question Interface
-![Question Interface](/quiz_app/screenshots/question_interface.png)
+![Question Interface](./screenshots/question_interface.png)
 *Interactive question display with multiple choice options*
 
 ### Progress Tracking
-![Progress Tracking](/quiz_app/screenshots/question_pogress.png)
+![Progress Tracking](./screenshots/question_pogress.png)
 *Progress bar showing quiz completion status*
 
 ### Results Page
