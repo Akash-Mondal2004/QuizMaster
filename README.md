@@ -23,7 +23,7 @@ A modern, interactive quiz application built with React and Vite, featuring anim
 *Progress bar showing quiz completion status*
 
 ### Results Page
-![Results Page](/quiz_app/screenshots/result_and_feedback.png)
+![Results Page](./screenshots/result_and_feedback.png)
 *Detailed score analysis and answer review*
 
 ### Working Demo video
