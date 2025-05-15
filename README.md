@@ -120,4 +120,4 @@ export const quizData = [
 5. Open a Pull Request
 
 
-Made with ❤️ by [Akash Mondal]
+Made with ❤️ by Akash Mondal
